@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](./assets/images/INGELIANCE-2020-COULEURS.png)
+
 
 # [Le bureau](./bureau.html)
 

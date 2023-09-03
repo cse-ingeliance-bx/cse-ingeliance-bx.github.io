@@ -1,6 +1,17 @@
-title: CSE Ingeliance Bordeaux
-description: Le site du CSE
-remote_theme: pages-themes/slate@v0.2.0
+title: CSE Bordeaux
+logo: /assets/images/INGELIANCE-2020-COULEURS.png
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github: [metadata]
+
+
+sidebar:
+  - name: Le bureau
+    link: ./bureau.html
+  - name: Les avantages
+    link: ./avantages.html
+  - name: La ludothèque
+    link: ./ludo.html
+  - name: L'utilisation du budget
+    link: ./budget.html

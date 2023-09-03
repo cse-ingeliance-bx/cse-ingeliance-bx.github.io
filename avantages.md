@@ -6,14 +6,14 @@ layout: default
 # Le forfait culture et sport
 
 Il s'agit d'un remboursement annuel pour vos activités sociales et culturelles d'un montant de 50€.
-Il vous faut nous adresser une ou des factures pour un montant total d'au moins 50€ pour des activités sportives ou culturelles en **un seul courriel**. Il s'agit bien d'une facture ou d'un justificatif à votre nom et non de ticket.
+Il vous faut nous adresser une ou des factures pour un montant total d'au moins 50€ pour des activités sportives ou culturelles en **un seul courriel**. Il s'agit bien d'une facture ou d'un justificatif à votre nom et non du ticket.
 
 ## Les conditions
 Réductions tarifaires accordées à l’occasion de voyages touristiques, de la pratique d’une activité sportive ou sur des spectacles
 
-> Les  réductions tarifaires accordées par le comité d’entreprise à l’occasion  de voyages touristiques, de la pratique d’activités sportives ou sur les spectacles sont  exonérées de charges > sociales, qu’il s’agisse de réductions directement  supportées par le comité d’entreprise ou du remboursement total ou  partiel des sommes payées par le salarié sur présentation de > justificatifs.
+> Les  réductions tarifaires accordées par le comité d’entreprise à l’occasion  de voyages touristiques, de la pratique d’activités sportives ou sur les spectacles sont  exonérées de charges  sociales, qu’il s’agisse de réductions directement  supportées par le comité d’entreprise ou du remboursement total ou  partiel des sommes payées par le salarié sur présentation de justificatifs.
 
-Plus précisément
+**Plus précisément**
 * le remboursement du prix du billet d’entrée à un spectacle (cinéma,  théâtre, représentation lyrique ou chorégraphique, concert, cirque…) ou  à un parc de loisirs ; 
 NB : en matière de spectacles, le comité doit être en mesure de  présenter les justificatifs des prestations versées (nature de la  manifestation afin de déterminer si celle-ci entre dans la notion de  spectacles, sa date, le prix du billet, l’identité du bénéficiaire)
 
