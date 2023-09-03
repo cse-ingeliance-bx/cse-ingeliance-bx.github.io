@@ -7,7 +7,7 @@ github: [metadata]
 
 
 sidebar:
-  - name: Le bureau
+  - name: Le bureau et le rôle du CSE
     link: ./bureau.html
   - name: Les avantages
     link: ./avantages.html
