@@ -9,7 +9,7 @@ github: [metadata]
 sidebar:
   - name: Le bureau et le rôle du CSE
     link: ./bureau.html
-  - name: Les avantages
+  - name: L'offre
     link: ./avantages.html
   - name: La ludothèque
     link: ./ludo.html
