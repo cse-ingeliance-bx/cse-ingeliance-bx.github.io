@@ -14,5 +14,7 @@ sidebar:
     link: ./ludo.html
   - name: L'utilisation du budget
     link: ./budget.html
+  - name: Achats groupés
+    link: ./achats_groupes.html
 
 github: [metadata]
