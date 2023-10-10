@@ -11,4 +11,4 @@ Les membres du CSE ont besoin de vos suggestions pour ce sujet.
 # Achats disponibles
 
 Les places à la revente aujourd'hui disponibles sont :
-- entrée à la piscine de Mérignac
+- entrée à la piscine de Mérignac (demander à un membre du CSE) au tarif de 3.6€ la place
